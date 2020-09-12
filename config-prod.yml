@@ -1,3 +1,5 @@
 # info conf-prod v1.0
+config:
+  info: master branch config-prod version 1.0
 server:
   port: 3344
