@@ -1,5 +1,3 @@
 # info conf-dev v1.0
 config:
   info: master branch config-dev version 1.0
-server:
-  port: 3344
