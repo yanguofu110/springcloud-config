@@ -1,2 +1,3 @@
 # info conf-test v1.0
-
+server:
+  port: 3344
